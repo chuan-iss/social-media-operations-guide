@@ -1,0 +1,12 @@
+site_name: 社媒客户教程
+docs_dir: docs
+site_dir: site
+theme:
+  name: mkdocs
+nav:
+  - 首页: README.md
+  - Facebook 账号注册: 00 facebook注册.md
+  - 创建公共主页: 01创建公共主页.md
+  - 常见问题: FAQ.md
+
+site_url: https://chuan-iss.github.io/social-media-operations-guide/
