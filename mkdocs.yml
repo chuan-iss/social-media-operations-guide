@@ -29,13 +29,14 @@ markdown_extensions:
 nav:
   - 首页: README.md
   - '00 注意事项.md': '00 注意事项.md'
-  - '01 facebook注册.md': '01 facebook注册.md'
-  - '02创建公共主页.md': '02创建公共主页.md'
-  - '03业务资产组合的授权与接收.md': '03业务资产组合的授权与接收.md'
-  - '04创建业务资产组合.md': '04创建业务资产组合.md'
+  - '1.0 facebook注册.md': '1.0 facebook注册.md'
+  - '2.1创建公共主页.md': '2.1创建公共主页.md'
+  - '2.2创建业务资产组合.md': '2.2创建业务资产组合.md'
+  - '2.3业务资产组合的授权与接收.md': '2.3业务资产组合的授权与接收.md'
   - '3.1  认识并创建Facebook小组(社群).md': '3.1  认识并创建Facebook小组(社群).md'
   - '3.2 小组与公共主页.md': '3.2 小组与公共主页.md'
   - '3.3 小组运营.md': '3.3 小组运营.md'
+  - '4.1 绑定WhatsApp到公共主页.md': '4.1 绑定WhatsApp到公共主页.md'
   - 'FAQ.md': 'FAQ.md'
 
 site_url: https://chuan-iss.github.io/social-media-operations-guide/
