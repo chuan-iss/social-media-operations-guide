@@ -12,7 +12,7 @@ theme:
     - toc.follow
 
 extra_css:
-  - stylesheets/obsidian.css
+  - stylesheets/obsidian-v2.css
 
 extra_javascript:
   - javascripts/graph.js
@@ -40,3 +40,4 @@ nav:
   - 'FAQ.md': 'FAQ.md'
 
 site_url: https://chuan-iss.github.io/social-media-operations-guide/
+
