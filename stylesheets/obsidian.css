@@ -1,6 +1,6 @@
 :root {
-  --md-primary-fg-color: #f7f7f8;
-  --md-primary-bg-color: #242424;
+  --md-primary-fg-color: #4b3673;
+  --md-primary-bg-color: #fff;
   --md-accent-fg-color: #7852b8;
 }
 
@@ -84,4 +84,18 @@
   font-size: .56rem;
   margin-top: .35rem;
   text-align: center;
+}
+
+/* Keep links readable on the light page background. */
+.md-typeset a,
+.md-nav__link--active {
+  color: #5b398b;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus-visible,
+.md-nav__link:hover,
+.md-nav__link:focus-visible {
+  color: #40226e;
+  text-decoration: underline;
 }
