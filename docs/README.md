@@ -24,7 +24,7 @@ description: Gooeyun 社媒账号搭建与询盘运营教程入口
 
 ## 教程入口
 
-- [Facebook 教程](social_docs/docs/00%20facebook注册.md)
+- [Facebook 教程](01%20facebook注册.md)
 - Instagram 教程（待编写）
 - YouTube 教程（待编写）
 - LinkedIn 教程（待编写）
@@ -43,4 +43,5 @@ description: Gooeyun 社媒账号搭建与询盘运营教程入口
 - 教程图片放在对应平台的 `assets/` 目录中。
 - 图片文件名建议使用“教程编号-步骤编号-内容”，例如 `02-01-创建入口.png`。
 - 每篇教程只解决一个任务，并保留“上一步、专题目录、下一步”导航。
+
 
